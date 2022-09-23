@@ -1,0 +1,134 @@
+.top-container {
+  background-color: #EC7272;
+  position: relative;
+  padding-top: 100px;
+}
+
+
+body {
+  font-family: "Montserrat";
+  text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Montserrat-Black";
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+
+h4 {
+  font-family: "Montserrat-Black";
+  font-size: 3.5rem;
+  line-height:1;
+
+}
+
+
+
+.big-heading {
+    padding-bottom: 70px;
+
+}
+
+.middle-container {
+  background-color: #FBF2CF;
+
+}
+
+
+.feature-title {
+  padding-bottom: 0px;
+  padding-top: 40px;
+
+
+}
+
+.feature-text {
+  padding-bottom: 40px;
+
+}
+
+#icon {
+  font-size:36px;
+  padding-bottom:20px;
+}
+
+#icon2 {
+  font-size:36px;
+  padding-bottom:20px;
+}
+
+
+#main-button {
+  margin-bottom: 150px;
+}
+
+
+.bottom-container{
+ background-color: #C6EBC5;
+}
+
+
+
+
+
+.box {
+  margin-top:50px;
+  margin-bottom: 50px;
+  outline-style: double;
+}
+
+#prices-button {
+  margin-top: 150px;
+  margin-bottom: 100px;
+  background-color: #FA7070
+}
+
+.pricing-section {
+  background-color: #FBF2CF
+}
+
+
+.pricing-text {
+  text-align: left;
+}
+
+.price-num-text {
+  font-family: "Montserrat-Black";
+  font-size: 2.1rem;
+  line-height: 1;
+
+}
+
+
+
+.book-title {
+  font-family: 'Oswald', sans-serif;
+  padding-top: 40px;
+  
+}
+
+
+.form {
+  background-color: #FA7070;
+
+  
+}
+
+
+.success-page {
+  padding-bottom: 40px;
+
+  
+}
+
+.spacing {
+  padding-bottom: 90px;
+  
+}
+
+#success-page {
+  padding-bottom: 650px;
+
+  
+}
